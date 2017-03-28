@@ -1,6 +1,9 @@
 国内请跳转访问:http://blog.csdn.net/u014702999/article/details/67638277
+
 本文目的:
+
 在VPS服务器上配置一个直播环境，在Android&iOS客户端实现,直播推流到服务器上,在任意播放器上实现,拉取服务器上的流观看直播。(附android源码)
+
 服务器环境:
 
 LSB Version:    :core-4.1-amd64:core-4.1-noarch
