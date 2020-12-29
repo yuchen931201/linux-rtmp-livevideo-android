@@ -1,4 +1,6 @@
 # linux-rtmp-livevideo-android
+
+###[中文说明](https://github.com/yuchen931201/linux-rtmp-livevideo-android/blob/master/README_CH.md)
 Configure a live environment on a virtual private server, in the Android client push to achieve live streaming.
 
 Self introduction:
