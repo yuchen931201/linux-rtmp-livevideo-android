@@ -11,7 +11,6 @@ centos-package-utils >>>>> All the tools needed by the server are on this
 
 Gmail: ryantianzhen@gmail.com
 Email: yuchen25111@icloud.com
-QQ: 609915997@qq.com
 
 If you think this article is helpful to you, please give me a star, thank you!
 Reference URL: https://obsproject.com/forum/resources/how-to-set-up-your-own-private-rtmp-server-using-nginx.50/
